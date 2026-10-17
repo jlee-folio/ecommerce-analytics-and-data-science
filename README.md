@@ -1,1 +1,1 @@
-
+A collection of Python-based e-commerce analytics and data science projects focused on business performance, customer behavior, and data-driven decision-making. Projects cover retail sales analysis, executive KPI reporting, product performance, customer-level metrics, RFM segmentation, pricing insights, and automated reporting, with additional work in forecasting and advanced customer analytics as the portfolio expands.
