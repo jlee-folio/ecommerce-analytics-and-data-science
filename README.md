@@ -1,1 +1,1 @@
-Online Retail Analytics: Developed a reproducible Python analytics pipeline that transforms transactional retail data into executive KPIs, sales and product performance analyses, customer-level metrics, RFM segments, pricing insights, and automated business reports. Includes data-quality assessment, documented metric definitions, and actionable recommendations for retail decision-making.
+
