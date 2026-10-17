@@ -10,10 +10,10 @@ Developed a reproducible Python analytics pipeline that transforms transitional 
 - Generate actionable business insights.
 
 #### Tools & Technologies:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
 docx
-Jupyter Notebook
+and Jupyter Notebook
